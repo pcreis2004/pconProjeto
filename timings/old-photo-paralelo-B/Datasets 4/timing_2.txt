@@ -1,0 +1,35 @@
+IST-1.jpg	6.11
+IST-4.jpg	0.35
+IST-6.jpg	0.45
+IST-7.jpg	6.79
+IST-9.jpg	6.18
+IST-12.jpg	0.37
+IST-13.jpg	8.32
+IST-16.jpg	0.75
+IST-17.jpg	6.18
+IST-20.jpg	0.41
+IST-21.jpg	5.29
+IST-22.jpg	0.32
+IST-23.jpg	4.96
+IST-25.jpg	4.81
+IST-28.jpg	0.34
+IST-29.jpg	5.42
+IST-30.jpg	0.35
+IST-31.jpg	5.63
+IST-2.jpg	0.38
+IST-3.jpg	5.98
+IST-5.jpg	7.18
+IST-8.jpg	0.37
+IST-10.jpg	0.38
+IST-11.jpg	13.03
+IST-14.jpg	0.32
+IST-15.jpg	6.24
+IST-18.jpg	0.73
+IST-19.jpg	11.39
+IST-24.jpg	0.71
+IST-26.jpg	0.63
+IST-27.jpg	15.56
+IST-32.jpg	0.33
+Thread 0	18	63.051715112
+Thread 1	14	63.268952517
+total 	         63.269290549
